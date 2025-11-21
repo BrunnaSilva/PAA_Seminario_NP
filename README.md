@@ -1,7 +1,7 @@
 # Projeto de Análise de Algoritmos: Problema Subconjunto Soma (Subset Sum)
 
 Projeto desenvolvido para a disciplina de **Projeto e Análise de Algoritmos (PAA)**. Este repositório contém slides, implementação e algoritmos para resolver o problema do subconjunto soma.
-[Link Apresentação em Vídeo](). 
+[Link Apresentação em Vídeo](https://youtu.be/wsQLazZFPGs). 
 
 
 ## 📋 Índice
