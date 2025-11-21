@@ -45,7 +45,7 @@ PAA_Seminario_AGM/
 
 1. **Clone o projeto:**
    ```bash
-   git clone https://github.com/BrunnaSilva/PAA_Seminario_AGM.git
+   git clone https://github.com/BrunnaSilva/PAA_Seminario_NP.git
    cd PAA_Seminario_AGM
    ```
 
@@ -62,3 +62,4 @@ python subset_sum.py
 cd src/
 python subset_sum_dp.py
 ```
+
