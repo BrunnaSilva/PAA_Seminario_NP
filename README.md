@@ -57,7 +57,7 @@ cd src/
 python subset_sum.py
 ```
 
-#### Algoritmo dinâmica
+#### Algoritmo dinâmico
 ```bash
 cd src/
 python subset_sum_dp.py
